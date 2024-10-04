@@ -1,0 +1,60 @@
+Azure Foundational
+	- ARM Architecture
+	- ARM Rest API
+	- Analyze ARM Logs
+	- Understand ARM Throttling 
+	- RBAC for auth in ARM
+	- Build ARM templates (Bicep too)
+ 	- Create and deploy template specs 
+	- Azure Tags
+		- How to Tags Guidance and Limits
+		- Tag 
+	- Azure PowerShell
+		- Get started with Azure PowerShell 
+		- What is Azure Cloud Shell
+		- How to install Azure PowerShell
+		- Obtain HTTP details from PowerShell
+	Azure PowerShell Support Lifecycle
+	- Azure CLI
+		- What is the Azure CLI
+		- Sign in - Sign in interactively 
+
+	- Azure Portal 
+		- What is the Azure Portal
+		- Capture a browser trace for troubleshooting 
+		- Obtain HTTP details from CLI
+Azure Policy 
+	- What is Azure Policy?
+	- Basic (Inside of Concepts)
+Azure Blueprints
+	- What is Azure Blueprints
+	- QuickStart
+	- Troubleshooting 
+Azure Managements Groups
+	- Managements groups
+	- How to guides
+		- Manage your resource hierarchy 
+	- QuickStart 
+		- Create a management group
+Azure Managed Application
+	- QuickStart
+		- Deploy a service catalog managed application
+		- Managed publish application definition
+Azure Lighthouse
+	- What is Azure Lighthouse
+	- Azure Lighthouse Architecture 
+	- How to guides
+		- Onboarding and delegation management  
+			Onboard customer
+	- Marketplace officers 
+		- Overview of Microsoft commercial marketplace 
+Azure Resource Graph 
+	- What is Azur Resource Graph 
+	- QuickStart
+		- Run a query - Azure Portal
+	- Concepts
+		- Understanding de Query Language
+Azure Terraform
+	- About Terraform on Azure
+	- Configure Terraform in Azure Clou Shell with Bash
+ 
