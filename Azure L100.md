@@ -13,17 +13,15 @@
 - [Create and deploy template specs](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-specs?tabs=azure-powershell)
 - Azure Tags
 	- [How to Tags Guidance and Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
-	- Tag 
 - Azure PowerShell
-	- Get started with Azure PowerShell 
-	- What is Azure Cloud Shell
-	- How to install Azure PowerShell
+	- [Get started with Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-12.3.0)
+	- [What is Azure Cloud Shell](https://learn.microsoft.com/en-us/powershell/azure/what-is-azure-powershell?view=azps-12.3.0)
+	- [How to install Azure PowerShell](https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azps-12.3.0&tabs=powershell&pivots=windows-psgallery)
 	- Obtain HTTP details from PowerShell
-- Azure PowerShell Support Lifecycle
+- [Azure PowerShell Support Lifecycle](https://learn.microsoft.com/en-us/powershell/azure/azureps-support-lifecycle?view=azps-12.3.0)
 - Azure CLI
-	- What is the Azure CLI
-	- Sign in - Sign in interactively 
-
+	- [What is the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/what-is-azure-cli)
+	- [Sign in - Sign in interactively](https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli-interactively)
 - Azure Portal 
 	- What is the Azure Portal
 	- Capture a browser trace for troubleshooting 
