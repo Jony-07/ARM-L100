@@ -1,28 +1,28 @@
 Azure Foundational
-	- ARM Architecture
-	- ARM Rest API
-	- Analyze ARM Logs
-	- Understand ARM Throttling 
-	- RBAC for auth in ARM
-	- Build ARM templates (Bicep too)
- 	- Create and deploy template specs 
-	- Azure Tags
-		- How to Tags Guidance and Limits
-		- Tag 
-	- Azure PowerShell
-		- Get started with Azure PowerShell 
-		- What is Azure Cloud Shell
-		- How to install Azure PowerShell
-		- Obtain HTTP details from PowerShell
-	Azure PowerShell Support Lifecycle
-	- Azure CLI
-		- What is the Azure CLI
-		- Sign in - Sign in interactively 
+- [ARM Architecture](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+- [ARM Rest API](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resources-rest?tabs=azure-cli#obtain-an-access-token)
+- Analyze ARM Logs
+- Understand ARM Throttling 
+- RBAC for auth in ARM
+- Build ARM templates (Bicep too)
+- Create and deploy template specs 
+- Azure Tags
+	- How to Tags Guidance and Limits
+	- Tag 
+- Azure PowerShell
+	- Get started with Azure PowerShell 
+	- What is Azure Cloud Shell
+	- How to install Azure PowerShell
+	- Obtain HTTP details from PowerShell
+- Azure PowerShell Support Lifecycle
+- Azure CLI
+	- What is the Azure CLI
+	- Sign in - Sign in interactively 
 
-	- Azure Portal 
-		- What is the Azure Portal
-		- Capture a browser trace for troubleshooting 
-		- Obtain HTTP details from CLI
+- Azure Portal 
+	- What is the Azure Portal
+	- Capture a browser trace for troubleshooting 
+	- Obtain HTTP details from CLI
 Azure Policy 
 	- What is Azure Policy?
 	- Basic (Inside of Concepts)
