@@ -7,10 +7,12 @@
 - [RBAC for auth in ARM](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-template)
 	- [What is Azure RBAC](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
 	- [Azure RBAC Documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/)
-- Build ARM templates (Bicep too)
-- Create and deploy template specs 
+- Build ARM templates
+	- [ARM](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell)
+	- [Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
+- [Create and deploy template specs](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-specs?tabs=azure-powershell)
 - Azure Tags
-	- How to Tags Guidance and Limits
+	- [How to Tags Guidance and Limits](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources)
 	- Tag 
 - Azure PowerShell
 	- Get started with Azure PowerShell 
