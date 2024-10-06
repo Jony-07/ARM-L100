@@ -1,9 +1,12 @@
 **Azure Foundational**
 - [ARM Architecture](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 - [ARM Rest API](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resources-rest?tabs=azure-cli#obtain-an-access-token)
-- Analyze ARM Logs
-- Understand ARM Throttling 
-- RBAC for auth in ARM
+	- [Azure REST API reference](https://learn.microsoft.com/en-us/rest/api/azure/?source=recommendations)
+- [Analyze ARM Logs](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/monitor-resource-manager)
+- [Understand ARM Throttling](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/request-limits-and-throttling) 
+- [RBAC for auth in ARM](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-template)
+	- [What is Azure RBAC](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+	- [Azure RBAC Documentation](https://learn.microsoft.com/en-us/azure/role-based-access-control/)
 - Build ARM templates (Bicep too)
 - Create and deploy template specs 
 - Azure Tags
