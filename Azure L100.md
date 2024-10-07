@@ -60,4 +60,43 @@
 - Azure Terraform
 	- About Terraform on Azure
 	- Configure Terraform in Azure Clou Shell with Bash
+
+ What is Azure Policy?
+https://learn.microsoft.com/en-us/azure/governance/policy/overview
+
+Structure basics
+https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics
+
+What is Azure Blueprints (Preview)?
+https://learn.microsoft.com/en-us/azure/governance/blueprints/overview
+
+Define and assign a blueprint in the portal
+https://learn.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal
+
+Azure Blueprints samples
+https://learn.microsoft.com/en-us/azure/governance/blueprints/samples/
+
+Troubleshoot errors using Azure Blueprints
+https://learn.microsoft.com/en-us/azure/governance/blueprints/troubleshoot/general
+
+What are Azure management groups?
+https://learn.microsoft.com/en-us/azure/governance/management-groups/overview
+
+Manage your Azure subscriptions at scale with management groups
+https://learn.microsoft.com/en-us/azure/governance/management-groups/manage
+
+Create a management group
+https://learn.microsoft.com/en-us/azure/governance/management-groups/create-management-group-portal
+
+Azure Managed Applications overview
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/overview
+
+Quickstart: Create and publish an Azure Managed Application definition
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/managed-applications/publish-service-catalog-app?tabs=azure-powershell
+
+What is Azure Lighthouse?
+https://learn.microsoft.com/en-us/azure/lighthouse/overview
+
+What is Terraform?
+https://learn.microsoft.com/en-us/azure/developer/terraform/overview 
  
